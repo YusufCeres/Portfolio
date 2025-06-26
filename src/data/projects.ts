@@ -36,27 +36,10 @@ const projects: Project[] = [
   {
     id: 5,
     title: "AI Workout Generator",
-    description: "A personalized AI-powered workout generator that creates custom fitness plans based on your specific requirements. Built with vanilla JavaScript, HTML, and CSS, and powered by Firebase for authentication and data storage.",
+    description: "An intelligent fitness application that generates personalized workout routines based on user preferences, fitness level, and available equipment. Built with Firebase for real-time data management and AI integration for smart workout recommendations.",
     technologies: ["Firebase", "JavaScript", "HTML", "CSS", "AI Integration"],
-    image: "/lovable-uploads/40f214b7-a500-412c-8df1-03f27ed2bffa.png",
-    liveLink: "https://ai-workout-generator.web.app/",
+    image: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=600&fit=crop",
     githubLink: "https://github.com/YusufCeres/WorkoutGenerator",
-  },
-  {
-    id: 6,
-    title: "DinoJump",
-    description: "A fun browser-based game where you control a dinosaur by physically jumping in front of your webcam! The game uses computer vision to detect your jumps and makes the dino jump to avoid obstacles, just like the classic Chrome Dino game—but with a twist: you are the controller!",
-    technologies: ["JavaScript", "Computer Vision", "WebRTC", "HTML5 Canvas", "Machine Learning"],
-    image: "/lovable-uploads/1f233491-462a-4216-8c4d-ae2d4122554c.png",
-    githubLink: "https://github.com/YusufCeres/DinoGame-",
-  },
-  {
-    id: 7,
-    title: "Clash Royale Top Card Tracker",
-    description: "A web app that helps you visualize the top 10 Clash Royale cards you most frequently encounter in battles. Uses Python Flask for the backend and integrates with the Clash Royale API to fetch battle data and analyze it.",
-    technologies: ["Python", "Flask", "Clash Royale API", "Data Analysis", "HTML", "CSS", "Render"],
-    image: "/lovable-uploads/d6c1eba3-fc2b-44e7-8116-372be30d08d7.png",
-    githubLink: "https://github.com/YusufCeres/ClashRoyaleTopCardTracker",
   }
 ];
 
