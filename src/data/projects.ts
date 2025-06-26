@@ -11,11 +11,11 @@ const projects: Project[] = [
   },
   {
     id: 2,
-    title: "Gallery With Bae",
+    title: "AneeqsAndYusuf",
     description: "A responsive gallery website built with HTML and CSS, showcasing image collections with modern design elements.",
     technologies: ["HTML", "CSS", "Responsive Design"],
     image: "/lovable-uploads/ba41d1ad-bb6b-42ba-8df8-bbd082c80578.png",
-    githubLink: "https://github.com/YusufCeres/GalleryWithBae",
+    githubLink: "https://github.com/YusufCeres/AneeqsAndYusuf",
   },
   {
     id: 3,
